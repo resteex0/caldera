@@ -1,1 +1,1 @@
-web: gunicorn server:run_tasks(services)
+web: gunicorn server:run_tasks
