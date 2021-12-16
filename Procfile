@@ -1,1 +1,1 @@
-web: guncron web:server
+web: gunicron web:server
