@@ -1,1 +1,1 @@
-web: gunicorn server:run_tasks
+web: gunicorn server:server
